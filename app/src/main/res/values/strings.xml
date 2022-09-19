@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MAPD711 Assignment 1</string>
+    <string name="heading">Student Form</string>
+    <string name="nameText">Name:</string>
+    <string name="addressText">Address:</string>
+    <string name="professionText">Profession:</string>
+    <string name="jobText">Dream Job:</string>
+    <string name="foodText">Favorite Food:</string>
+    <string name="submitButton">Submit</string>
+
+    <string name="nameEditText">Type your name</string>
+    <string name="addressEditText">Type your address</string>
+    <string name="professionEditText">Type your profession</string>
+    <string name="jobEditText">Your dream job</string>
+    <string name="foodEditText">Your favorite Food</string>
+
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="profession">Profession</string>
+    <string name="job">Dream Job</string>
+    <string name="food">Favorite Food</string>
+
+    <string name="sub_heading">Student Profile</string>
+
+
 </resources>
